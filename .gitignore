@@ -2,12 +2,19 @@
 __pycache__/
 *.py[cod]
 
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env
+
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
-env/
 build/
 develop-eggs/
 dist/
